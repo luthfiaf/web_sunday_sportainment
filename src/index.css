@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Britney Font Face */
+@font-face {
+  font-family: 'Britney';
+  src: url('/fonts/Britney-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #DD0303;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0C2C55;
+}
+
+/* Button styles */
+.btn-primary {
+  @apply bg-white text-secondary font-semibold px-8 py-3 rounded-full border-2 border-green-500 hover:bg-green-500 hover:text-white transition-all duration-300;
+}
+
+.btn-secondary {
+  @apply bg-primary text-white font-semibold px-8 py-3 rounded-full hover:bg-red-700 transition-all duration-300;
+}
+
+/* Gradient text */
+.gradient-text {
+  @apply bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent;
+}
+
+/* Section padding */
+.section-padding {
+  @apply py-16 md:py-24;
+}

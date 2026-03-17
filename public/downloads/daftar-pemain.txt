@@ -1,0 +1,61 @@
+# Daftar Nama Pemain
+
+## Sunday Sportainment
+
+---
+
+### FORMAT DAFTAR PEMPAER
+
+**Nama Tim:** _____________________________
+
+**Cabang Olahraga:** _______________________
+
+**Event:** ________________________________
+
+---
+
+| No | Nama Lengkap | No. Jersey | Posisi | Tanggal Lahir | No. KTP |
+|----|--------------|------------|--------|---------------|---------|
+| 1  |              |            |        |               |         |
+| 2  |              |            |        |               |         |
+| 3  |              |            |        |               |         |
+| 4  |              |            |        |               |         |
+| 5  |              |            |        |               |         |
+| 6  |              |            |        |               |         |
+| 7  |              |            |        |               |         |
+| 8  |              |            |        |               |         |
+| 9  |              |            |        |               |         |
+| 10 |              |            |        |               |         |
+| 11 |              |            |        |               |         |
+| 12 |              |            |        |               |         |
+
+---
+
+**Official Tim:**
+
+| Jabatan | Nama Lengkap | No. WhatsApp |
+|---------|--------------|--------------|
+| Manager |              |              |
+| Pelatih |              |              |
+| Asisten Pelatih |      |              |
+| Fisioterapis |         |              |
+
+---
+
+**Catatan:**
+- Harap mengisi semua kolom dengan lengkap
+- Fotokopi KTP semua pemain wajib dilampirkan
+- Pas foto 3x4 setiap pemain (2 lembar)
+- Surat keterangan sehat dari dokter
+
+_____________, _______________ 2024
+
+Mengetahui,
+
+
+(_____________________)
+Kapten Tim
+
+
+(_____________________)
+Manager Tim
